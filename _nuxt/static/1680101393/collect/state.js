@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Fmiss\u002F_nuxt\u002Fstatic\u002F1680101393",layout:"default",error:a,state:{currentUser:{},tempUser:b,auth:{user:a,loggedIn:false,strategy:b}},serverRendered:true,routePath:"\u002Fcollect",config:{_app:{basePath:"\u002Fmiss\u002F",assetsPath:"\u002Fmiss\u002F_nuxt\u002F",cdnURL:a}}}}(null,""));
